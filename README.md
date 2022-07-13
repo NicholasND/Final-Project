@@ -1,2 +1,2 @@
 # Final-Project
-App
+Coding App
